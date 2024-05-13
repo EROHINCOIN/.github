@@ -38,4 +38,4 @@ In case the topic will shoot, we will work on related topics.
 
 No burning tokens or giving away🔥
 
-![poster](poster.jpg)
+![poster](./poster.jpg)
