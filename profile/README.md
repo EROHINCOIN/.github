@@ -37,3 +37,5 @@ https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=EQD_tkB_GxbZN3xRk31s7wnrOj
 In case the topic will shoot, we will work on related topics.
 
 No burning tokens or giving away🔥
+
+![poster](poster.jpg)
